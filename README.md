@@ -11,7 +11,7 @@ I want to one day (next year?) help students like you guys did :)
 I am passionate about learning and this quarter, we covered:
 /n KNNs
 /n Linear Regression
-Logistic Regression
+/n Logistic Regression
 -Machine Learning Libraries (panda, numpy)
 -Neural Networks
 and more! 
