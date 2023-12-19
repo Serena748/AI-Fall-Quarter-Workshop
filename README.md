@@ -1,5 +1,7 @@
 # AI-Fall-Quarter-Workshop
 
+# FILES TO BE UPLOADED BY DEC 22 
+
 ACM AI's Fall Quarter Workshops met for 2 hours every week (20 hours) to cover Machine Learning (ML) theory, ethical case studies in AI, and practical coding sessions.
 
 I am passionate about learning and this quarter, we covered: KNNs, Linear Regression, Logistic Regression, Machine Learning Libraries (panda, numpy), Neural Networks and more! 
